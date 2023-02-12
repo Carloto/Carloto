@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Professional problem solver from :brazil:
+#### Professional problem solver :brazil:
 
 Full-Stack Developer at [KPMG Brazil](https://kpmg.com/br/pt/home.html)
 
