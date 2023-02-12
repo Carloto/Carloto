@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Professional problem solver from :brazil:
+
+Full-Stack Developer at [KPMG Brazil](https://kpmg.com/br/pt/home.html)
+
 <!--
 **Carloto/Carloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
