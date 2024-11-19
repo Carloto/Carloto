@@ -2,7 +2,7 @@
 
 #### Professional problem solver :brazil:
 
-Full-Stack Developer at [KPMG Brazil](https://kpmg.com/br/pt/home.html)
+Full-Stack Developer and JS enthusiast.
 
 <!--
 **Carloto/Carloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
