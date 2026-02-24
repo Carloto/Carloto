@@ -9,7 +9,7 @@ I build web apps with **Node.js**, **React**, and **TypeScript** — and I'm lea
 - 🔒 Studying web security through [PortSwigger Academy](https://portswigger.net/web-security) and CTFs
 - 🛠️ Building security tooling in **Python** and **Go**
 - 🤖 Exploring LLM security — prompt injection, RAG poisoning, guardrail bypass
-- ✍️ Documenting everything at [Tocaia](https://carloto.github.io/tocaia) *(coming soon)*
+- ✍️ Documenting everything at [Tocaia](https://carloto.github.io/tocaia)
 
 ## Tech
 
