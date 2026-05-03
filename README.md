@@ -1,38 +1,20 @@
-# Vinicius Carloto
+# Hey, I'm Vinicius 👋
 
-Full Stack Developer transitioning into Application Security.
+I'm a full-stack developer from Brazil, mostly working with TypeScript, React, Next.js, Node.js, and NestJS.
 
-I build web apps with **Node.js**, **React**, and **TypeScript** — and I'm learning how to break and secure them. Currently exploring the intersection of **AI/LLM engineering** and **AppSec**, with hands-on experience building GPT-powered features in production.
+I like building products end-to-end: understanding the problem, shipping the thing, and improving it after real users inevitably find creative ways to break it.
 
-## What I'm working on
+Right now, I'm getting deeper into Go and AI engineering.
 
-- 🔒 Studying web security through [PortSwigger Academy](https://portswigger.net/web-security) and CTFs
-- 🛠️ Building security tooling in **Python** and **Go**
-- 🤖 Exploring LLM security — prompt injection, RAG poisoning, guardrail bypass
-- ✍️ Documenting everything at [Tocaia](https://carloto.github.io/tocaia)
+## Current focus
 
-## Tech
+- Product engineering
+- Go for backend services
+- AI-powered features
+- System design
+- Security-aware development
 
-**Day job:** Node.js · TypeScript · React · React Native · NestJS · Express · Next.js
+## Links
 
-**Cloud & Infra:** AWS · Azure · Docker · Kubernetes · GitHub Actions
-
-**Security:** Burp Suite · Semgrep · OWASP ZAP · SQLMap · Trivy
-
-**Learning:** Python · Go · Threat Modeling · SAST/DAST · DevSecOps
-
-<!--
-## Featured Projects
-
-| Project | What it is |
-|---|---|
-| [`vuln-node-app`](https://github.com/Carloto/vuln-node-app) | Intentionally vulnerable Node.js app for learning and teaching web security |
-| [`devsecops-pipeline`](https://github.com/Carloto/devsecops-pipeline) | CI/CD pipeline template with SAST, DAST, container scanning, and secrets detection |
-| [`llm-security-toolkit`](https://github.com/Carloto/llm-security-toolkit) | Python toolkit for testing LLM application security (prompt injection, jailbreak, PII leakage) |
-| [`threat-model-examples`](https://github.com/Carloto/threat-model-examples) | Documented threat models for common architectures using STRIDE |
-| [`security-go-tools`](https://github.com/Carloto/security-go-tools) | Small, focused security utilities written in Go |
--->
-
-## Get in touch
-
-[LinkedIn](https://linkedin.com/in/vcarloto) · viniciuscarloto@gmail.com
+Blog: https://carloto.github.io/tocaia  
+LinkedIn: https://www.linkedin.com/in/vcarloto
