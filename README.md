@@ -15,6 +15,5 @@ Right now, I'm getting deeper into Go and AI engineering.
 - Security-aware development
 
 ## Links
-
-Blog: https://carloto.github.io/tocaia  
+ 
 LinkedIn: https://www.linkedin.com/in/vcarloto
